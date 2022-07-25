@@ -1,6 +1,6 @@
-<h1 align='center'>The Festival of Paneuretic Laboratories</h1>
+<h1 align='center'>The Festival of Paneurethic Laboratories</h1>
 
-[*Scambi*](https://scambi.org 'Scambi Festival official website') is the Festival of [*Paneuretic*](https://scambi.org/en/the-paneuretic-universe-of-scambi/ '“The Paneuretic Universe of Scambi Festival„') Laboratories, conceived and organized by a team of **50+ *under-25* enthusiasts** coming from different corners of the planet. What makes our festival unique is the young staff composed exclusively by **volunteers** and the final aim of **bringing together** different people and ideas.
+[*Scambi*](https://scambi.org 'Scambi Festival official website') is the Festival of [*Paneurethic*](https://scambi.org/en/the-paneuretic-universe-of-scambi/ '“The Paneurethic Universe of Scambi Festival„') Laboratories, conceived and organized by a team of **50+ *under-25* enthusiasts** coming from different corners of the planet. What makes our festival unique is the young staff composed exclusively by **volunteers** and the final aim of **bringing together** different people and ideas.
 
 <div align='center'>
 	<a href='mailto:staff@scambi.org?subject=Silicon%20Team%20Application&body=Name%3A%20%0AWebsite%3A%20%0AGitHub%20profile%3A%20%0ASkills%3A%0A%0AWhy%20am%20I%20joining%3F%0A%0A%3C%21--%20Write%20here%20the%20reasons%20--%3E' alt='LOOKING FOR VOLUNTEERS!' title='send us an email to enroll!'>
