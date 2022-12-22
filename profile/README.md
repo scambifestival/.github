@@ -9,12 +9,10 @@
 	⬆️ Click on the button to <strong>join us</strong>! ⬆️
 </div>
 
-<br />
-
 <details>
-	<summary><h3>Find out more</h3></summary>
+	<summary><h3>💡 Find out more ⤵️</h3></summary>
 	
-<img src='https://scambi.org/wp-content/uploads/2021/11/homepage-1980x1320.jpg' alt='A photo from the Scambi 2021 opening event'>
+![A photo of Scambi’s staff during the opening of the 2022 edition](https://x.scambi.org/images/staff.webp)
 
 ## ℹ️ General info
 
